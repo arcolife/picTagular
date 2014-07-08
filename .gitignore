@@ -54,3 +54,6 @@ docs/_build/
 
 *~
 .*~
+raw/
+test/
+training/

@@ -8,7 +8,7 @@ Example:
 $ python load.py --i corpus/training/1005394_10153724055540103_1684805428_n.jpg 
 
 .... Keep pressing any key to proceed with images. 
-.... Close histograms to priceed with plots.
+.... Close histograms to proceed with plots.
 """
 
 # import the necessary packages

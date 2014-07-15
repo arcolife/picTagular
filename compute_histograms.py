@@ -2,7 +2,7 @@
 Ref: http://www.pyimagesearch.com/2014/01/22/clever-girl-a-guide-to-utilizing-color-histograms-for-computer-vision-and-image-search-engines/
 
 - Load an image
-- compute grayscale histogram.
+- compute different histograms.
 
 Example: 
 $ python load.py --i corpus/training/1005394_10153724055540103_1684805428_n.jpg 
